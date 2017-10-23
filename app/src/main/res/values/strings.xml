@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">ShoppingList</string>
+    <string name="confirm">Confirmation</string>
+    <string name="remove">Remove</string>
+    <string name="confirm_message">Are you sure you want to remove \'%1$s\'?</string>
+    <string name="chestnust">Chestnust</string>
+    <string name="pizza">Pizza</string>
+    <string name="potatoes">Potatoes</string>
+</resources>
